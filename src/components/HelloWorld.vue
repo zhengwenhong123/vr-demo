@@ -208,7 +208,7 @@ const init = () => {
         //   height: 200,
         // },
         configureLeaflet:(map)=> {
-          console.log(map)
+          console.log(map);
         },
         layers: [
           {
