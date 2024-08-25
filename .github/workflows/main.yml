@@ -27,7 +27,7 @@ jobs:
           with:
             branch: gh-pages # 提交分支 
             publish_dir: ./dist
-            github_token: ${{ secrets.CICDDEMO }}
+            github_token: ${{ secrets.VRDEMO }}
             REMOTE_HOST: ${{secrets.REMOTE_HOST}}
             user_name: ${{ secrets.MY_USER-NAME }}
             user_email: ${{ secrets.MY-USER-EMAIL }}
