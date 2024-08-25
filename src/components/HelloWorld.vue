@@ -132,7 +132,7 @@ const init = () => {
   //初始化配置项
   const viewer = new Viewer({
     container: 'viewer',
-    panorama: '../../public/images/6.jpg',
+    panorama: '../../public/6.jpg',
     sphereCorrection: {tilt: 0.1},
     defaultPitch: animatedValues.pitch.start,
     defaultYaw: animatedValues.yaw.start,
@@ -185,7 +185,7 @@ const init = () => {
       }],
       [MapPlugin, {
         id:'map',
-        imageUrl: '../../public/images/panoramic.jpg',
+        imageUrl: '../../public/panoramic.jpg',
         center: {x: 2000, y: 1000},
         shape: 'square',
         position: 'top right',
@@ -213,13 +213,13 @@ const init = () => {
         layers: [
           {
             name: 'OpenStreetMap',
-            urlTemplate: '../../public/images/panoramic.jpg',
+            urlTemplate: '../../public/panoramic.jpg',
             attribution: '&copy; OpenStreetMap',
           },
 
           // {
           //   name: 'OpenTopoMap',
-          //   layer: new TileLayer('../../public/images/panoramic.jpg', {
+          //   layer: new TileLayer('../../public/panoramic.jpg', {
           //     subdomains: ['a', 'b', 'c'],
           //     maxZoom: 17,
           //   }),
@@ -238,49 +238,49 @@ const init = () => {
   const imageItems = [
     {
       id: 'sphere',
-      panorama: '../../public/images/1.jpg',
-      thumbnail: '../../public/images/1.jpg',
+      panorama: '../../public/1.jpg',
+      thumbnail: '../../public/1.jpg',
       name: "ST02灯身预装线",
       options: {},
     },
     {
       id: 'sphere-test',
-      panorama: '../../public/images/2.jpg',
-      thumbnail: '../../public/images/2.jpg',
+      panorama: '../../public/2.jpg',
+      thumbnail: '../../public/2.jpg',
       name: 'ST02灯座预装线',
     },
     {
       id: 'key-biscayne',
-      panorama: '../../public/images/3.jpg',
-      thumbnail: '../../public/images/3.jpg',
+      panorama: '../../public/3.jpg',
+      thumbnail: '../../public/3.jpg',
       name: 'ST03灯座预装线',
       options: {},
     },
     {
       id: 'key-biscayne1',
-      panorama: '../../public/images/4.jpg',
-      thumbnail: '../../public/images/4.jpg',
+      panorama: '../../public/4.jpg',
+      thumbnail: '../../public/4.jpg',
       name: 'ST05灯座预装线',
       options: {},
     },
     {
       id: 'key-biscayne2',
-      panorama: '../../public/images/5.jpg',
-      thumbnail: '../../public/images/5.jpg',
+      panorama: '../../public/5.jpg',
+      thumbnail: '../../public/5.jpg',
       name: 'ST07自动包装线',
       options: {},
     },
     {
       id: 'key-biscayne3',
-      panorama: '../../public/images/6.jpg',
-      thumbnail: '../../public/images/6.jpg',
+      panorama: '../../public/6.jpg',
+      thumbnail: '../../public/6.jpg',
       name: 'A43机器人自动拆垛',
       options: {},
     },
     // {
     //   id: 'key-biscayne4',
-    //   panorama: '../../public/images/panoramic.jpg',
-    //   thumbnail: '../../public/images/panoramic.jpg',
+    //   panorama: '../../public/panoramic.jpg',
+    //   thumbnail: '../../public/panoramic.jpg',
     //   name: '俯瞰全景',
     //   options: {},
     // },
