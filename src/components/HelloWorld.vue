@@ -125,7 +125,7 @@ const markMap = {
   keybiscayne3: [
     {
       "id": "keybiscayne3",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 5.77,
         "pitch": -0.095
@@ -143,7 +143,7 @@ const markMap = {
     {
       "id": "sphere",
 
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 0.978,
         "pitch": -0.032
@@ -159,7 +159,7 @@ const markMap = {
     },
     {
       "id": "spheretest",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 0.62,
         "pitch": -0.040
@@ -176,7 +176,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne2",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 0.315,
         "pitch": -0.088
@@ -192,7 +192,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 0.45,
         "pitch": -0.025
@@ -210,7 +210,7 @@ const markMap = {
   keybiscayne2: [
     {
       "id": "keybiscayne2",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 0.087,
         "pitch": -0.656
@@ -227,7 +227,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne3",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 5.338,
         "pitch": 0.152
@@ -244,7 +244,7 @@ const markMap = {
     },
     {
       "id": "sphere",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 3.258,
         "pitch": -0.061
@@ -261,7 +261,7 @@ const markMap = {
     },
     {
       "id": "spheretest",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 2.375,
         "pitch": -0.04
@@ -279,7 +279,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.921,
         "pitch": -0.001
@@ -296,7 +296,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne1",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.78,
         "pitch": 0.049
@@ -315,7 +315,7 @@ const markMap = {
   sphere: [
     {
       "id": "sphere",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 6.023,
         "pitch": -0.015
@@ -332,7 +332,7 @@ const markMap = {
     },
     {
       "id": "spheretest",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 5.096,
         "pitch": 0.002
@@ -349,7 +349,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne3",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 2.685,
         "pitch": 0.134
@@ -366,7 +366,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne2",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 3.577,
         "pitch": -0.215
@@ -383,7 +383,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 4.822,
         "pitch": -0.028
@@ -400,7 +400,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne1",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 4.726,
         "pitch": -0.006
@@ -419,7 +419,7 @@ const markMap = {
   spheretest: [
     {
       "id": "sphere",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 0.602,
         "pitch": 0.023
@@ -436,7 +436,7 @@ const markMap = {
     },
     {
       "id": "spheretest",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 5.393,
         "pitch": -0.033
@@ -453,7 +453,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne2",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 2.57,
         "pitch": -0.165
@@ -470,7 +470,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne3",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 2.366,
         "pitch": 0.122
@@ -487,7 +487,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 4.833,
         "pitch": -0.037
@@ -504,7 +504,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne1",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 4.704,
         "pitch": 0
@@ -523,7 +523,7 @@ const markMap = {
   keybiscayne: [
     {
       "id": "keybiscayne",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 6.194,
         "pitch": 0.065
@@ -540,7 +540,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne1",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 4.717,
         "pitch": 0.025
@@ -557,7 +557,7 @@ const markMap = {
     },
     {
       "id": "spheretest",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.327,
         "pitch": 0.005
@@ -574,7 +574,7 @@ const markMap = {
     },
     {
       "id": "sphere",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.385,
         "pitch": 0.019
@@ -591,7 +591,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne2",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.772,
         "pitch": 0.005
@@ -608,7 +608,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne3",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.832,
         "pitch": 0.071
@@ -626,7 +626,7 @@ const markMap = {
   ],
   keybiscayne1: [{
     "id": "keybiscayne1",
-    "imageLayer": "../../public/images/target.png",
+    "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
     "position": {
       "yaw": 0.386,
       "pitch": 0.059
@@ -643,7 +643,7 @@ const markMap = {
   },
     {
       "id": "keybiscayne",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.514,
         "pitch": -0.166
@@ -661,7 +661,7 @@ const markMap = {
     },
     {
       "id": "spheretest",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.427,
         "pitch": 0.027
@@ -678,7 +678,7 @@ const markMap = {
     },
     {
       "id": "keybiscayne2",
-      "imageLayer": "../../public/images/target.png",
+      "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
         "yaw": 1.7,
         "pitch": 0.014
@@ -717,13 +717,13 @@ const init = () => {
   //初始化配置项
   const viewer = new Viewer({
     container: 'viewer',
-    panorama: '../../public/images/6.jpg',
+    panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/6.jpg?Expires=1725824173&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=mMYcxT9Z1XPAYATMzRoUQ%2B%2FnLlY%3D',
     sphereCorrection: {tilt: 0.1},
     defaultPitch: animatedValues.pitch.start,
     defaultYaw: animatedValues.yaw.start,
     defaultZoomLvl: animatedValues.zoom.start,
     maxFov: animatedValues.maxFov.start,
-    loadingImg: '../../public/images/loader.gif',
+    loadingImg: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/loader.gif?Expires=1725824213&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=hujaxlg5zrOWsC1H0nL73r5jPFc%3D',
     moveInertia: true,
     // fisheye: animatedValues.fisheye.start,
     // adapter: [EquirectangularAdapter,{interpolateBackground:true}],
@@ -771,7 +771,7 @@ const init = () => {
       }],
       [MapPlugin, {
         id: 'map',
-        imageUrl: '../../public/images/panoramic.jpg',
+        imageUrl: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/panoramic.jpg?Expires=1725824277&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=A1TgoEGg%2B0i5PGpQYhP6rLADqb8%3D',
         center: {x: 2000, y: 1000},
         shape: 'square',
         position: 'top right',
@@ -803,13 +803,13 @@ const init = () => {
       //   layers: [
       //     {
       //       name: 'OpenStreetMap',
-      //       urlTemplate: '../../public/images/panoramic.jpg',
+      //       urlTemplate: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/panoramic.jpg?Expires=1725824277&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=A1TgoEGg%2B0i5PGpQYhP6rLADqb8%3D',
       //       attribution: '&copy; OpenStreetMap',
       //     },
       //
       //     // {
       //     //   name: 'OpenTopoMap',
-      //     //   layer: new TileLayer('../../public/images/panoramic.jpg', {
+      //     //   layer: new TileLayer('https://vr-demo.oss-cn-beijing.aliyuncs.com/panoramic.jpg?Expires=1725824277&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=A1TgoEGg%2B0i5PGpQYhP6rLADqb8%3D', {
       //     //     subdomains: ['a', 'b', 'c'],
       //     //     maxZoom: 17,
       //     //   }),
@@ -880,8 +880,8 @@ const init = () => {
   const imageItems = [
     {
       id: 'sphere',
-      panorama: '../../public/images/1.jpg',
-      thumbnail: '../../public/images/1.jpg',
+      panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/1.jpg?Expires=1725824091&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=spwnDQre%2Fj6TVTfKlESqs5LR954%3D',
+      thumbnail: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/1.jpg?Expires=1725824091&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=spwnDQre%2Fj6TVTfKlESqs5LR954%3D',
       name: "ST02灯身预装线",
       description: '这是ST02灯身预装线产线',
       options: {
@@ -890,8 +890,8 @@ const init = () => {
     },
     {
       id: 'spheretest',
-      panorama: '../../public/images/2.jpg',
-      thumbnail: '../../public/images/2.jpg',
+      panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/2.jpg?Expires=1725824110&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=H2tkTsFGQqomn51vbzgII%2FQQ%2FT4%3D',
+      thumbnail: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/2.jpg?Expires=1725824110&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=H2tkTsFGQqomn51vbzgII%2FQQ%2FT4%3D',
       name: 'ST02灯座预装线',
       description: '这是ST02灯座预装线产线',
       options: {
@@ -900,8 +900,8 @@ const init = () => {
     },
     {
       id: 'keybiscayne',
-      panorama: '../../public/images/3.jpg',
-      thumbnail: '../../public/images/3.jpg',
+      panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/3.jpg?Expires=1725824127&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=XaIMy9WUq65PzeFOuUwRKt0ZUj8%3D',
+      thumbnail: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/3.jpg?Expires=1725824127&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=XaIMy9WUq65PzeFOuUwRKt0ZUj8%3D',
       name: 'ST03灯座预装线',
       options: {
         caption: 'ST02灯身预装线'
@@ -910,32 +910,32 @@ const init = () => {
     },
     {
       id: 'keybiscayne1',
-      panorama: '../../public/images/4.jpg',
-      thumbnail: '../../public/images/4.jpg',
+      panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/4.jpg?Expires=1725824141&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=%2Ffk9td29Z8AWdMXg3vFDhqE99VQ%3D',
+      thumbnail: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/4.jpg?Expires=1725824141&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=%2Ffk9td29Z8AWdMXg3vFDhqE99VQ%3D',
       name: 'ST05灯座预装线',
       options: {},
       description: '这是ST05灯座预装线产线',
     },
     {
       id: 'keybiscayne2',
-      panorama: '../../public/images/5.jpg',
-      thumbnail: '../../public/images/5.jpg',
+      panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/5.jpg?Expires=1725824156&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=IcLmvPuewfXjbeoAPy3Q4XOPp94%3D',
+      thumbnail: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/5.jpg?Expires=1725824156&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=IcLmvPuewfXjbeoAPy3Q4XOPp94%3D',
       name: 'ST07自动包装线',
       description: '这是ST07自动包装线产线',
       options: {},
     },
     {
       id: 'keybiscayne3',
-      panorama: '../../public/images/6.jpg',
-      thumbnail: '../../public/images/6.jpg',
+      panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/6.jpg?Expires=1725824173&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=mMYcxT9Z1XPAYATMzRoUQ%2B%2FnLlY%3D',
+      thumbnail: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/6.jpg?Expires=1725824173&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=mMYcxT9Z1XPAYATMzRoUQ%2B%2FnLlY%3D',
       name: 'A43机器人自动拆垛',
       description: '这是A43机器人自动拆垛产线',
       options: {},
     },
     // {
     //   id: 'keybiscayne4',
-    //   panorama: '../../public/images/panoramic.jpg',
-    //   thumbnail: '../../public/images/panoramic.jpg',
+    //   panorama: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/panoramic.jpg?Expires=1725824277&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=A1TgoEGg%2B0i5PGpQYhP6rLADqb8%3D',
+    //   thumbnail: 'https://vr-demo.oss-cn-beijing.aliyuncs.com/panoramic.jpg?Expires=1725824277&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=A1TgoEGg%2B0i5PGpQYhP6rLADqb8%3D',
     //   name: '俯瞰全景',
     //   options: {},
     // },
