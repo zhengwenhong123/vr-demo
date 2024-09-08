@@ -178,7 +178,7 @@ const markMap = {
       "id": "keybiscayne2",
       "imageLayer": "https://vr-demo.oss-cn-beijing.aliyuncs.com/target.png?Expires=1725824285&OSSAccessKeyId=TMP.3KhMER5m7UpXgHY3tmWXmyHJNB3kdQq5iAL1SK8yHa4qqBaS2YkavTNiamws5WjgkamwUqtqm7eLoebP1gPDZQMwzjWcPf&Signature=osYkI2x77xLInR1TpXATLTzTmgw%3D",
       "position": {
-        "yaw": 0.315,
+        "yaw": 0.314,
         "pitch": -0.088
       },
       "size": {
